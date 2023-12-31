@@ -1,5 +1,7 @@
+import './App.css';
 function App() {
-  return <h1>Sandbox</h1>;
+  // classを設定する際は、className
+  return <h1 className="red">Sandbox</h1>;
 }
 
 export default App;
